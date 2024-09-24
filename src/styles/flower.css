@@ -1,0 +1,26 @@
+.flower-banner {
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    padding: 20px;
+    text-align: center;
+    box-shadow: 2px 2px 12px rgba(0, 0, 0, 0.1);
+    margin: 20px;
+    width: 250px;
+  }
+  
+  .flower-image {
+    width: 100%;
+    border-radius: 10px;
+  }
+  
+  .flower-name {
+    font-size: 1.5em;
+    color: #333;
+    margin: 10px 0;
+  }
+  
+  .flower-price {
+    font-size: 1.2em;
+    color: green;
+  }
+  
